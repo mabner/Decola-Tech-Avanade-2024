@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DominandoOsOperadores", "Do
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesvendadoOCOntroleDeFluxo", "DesvendadoOCOntroleDeFluxo\DesvendadoOCOntroleDeFluxo.csproj", "{C03918E3-B0B1-417D-B851-98C84A6B3691}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UtilizandoArrayEListas", "UtilizandoArrayEListas\UtilizandoArrayEListas.csproj", "{9E7DCAC0-53FD-4CA5-8460-B84E5255D112}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{C03918E3-B0B1-417D-B851-98C84A6B3691}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C03918E3-B0B1-417D-B851-98C84A6B3691}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C03918E3-B0B1-417D-B851-98C84A6B3691}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E7DCAC0-53FD-4CA5-8460-B84E5255D112}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E7DCAC0-53FD-4CA5-8460-B84E5255D112}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E7DCAC0-53FD-4CA5-8460-B84E5255D112}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E7DCAC0-53FD-4CA5-8460-B84E5255D112}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
