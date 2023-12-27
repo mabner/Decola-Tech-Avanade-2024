@@ -2,16 +2,16 @@
 
 ## Convenções C# Com Desafios de Código
 
-[*] Explorando Sintaxe e Tipos de Dados
-[*] Dominando os Operadores
-[*] Desvendando o Control de Fluxo
-[*] Utilizando Array e Listas
-[*] Manipulando Funções
+[*] [Explorando Sintaxe e Tipos de Dados](/ExplorandoSintaxeETiposDeDados/Program.cs)
+[*] [Dominando os Operadores](/DominandoOsOperadores/Program.cs)
+[*] [Desvendando o Control de Fluxo](/DesvendadoOCOntroleDeFluxo/Program.cs)
+[*] [Utilizando Array e Listas](/UtilizandoArrayEListas/Program.cs)
+[*] [Manipulando Funções](/ManipulandoFuncoes/Program.cs)
 
 ## Praticando Orientação a Objetos Com Desafios de Código em C#
 
-[*] Primeiro Desafio com POO
-[*] Utilizando Propriedades e Métodos
-[] Criando um Objeto com Atributos
-[] Utilizando Construtores
-[] Utilizando Herança e Subclasses
+[*] [Primeiro Desafio com POO](/PrimeiroDesafioComPOO.sln)
+[*] [Utilizando Propriedades e Métodos](/UtilizandoPropriedadesEMetodos/Program.cs)
+[] [Criando um Objeto com Atributos](/CriandoUmObjetoComAtributos/Program.cs)
+[] [Utilizando Construtores](/UtilizandoContrutores/Program.cs)
+[] [Utilizando Herança e Subclasses](/UtilizandoHerancaESubclasses/Program.cs)
