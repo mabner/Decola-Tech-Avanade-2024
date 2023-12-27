@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeiroDesafioComPOO", "Pr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UtilizandoPropriedadesEMetodos", "UtilizandoPropriedadesEMetodos\UtilizandoPropriedadesEMetodos.csproj", "{8FA4A192-0728-499E-BFB6-24C9CB5EA4C1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExplorandoSintaxeETiposDeDados", "ExplorandoSintaxeETiposDeDados\ExplorandoSintaxeETiposDeDados.csproj", "{2033D33F-7DED-4A91-8C74-38E644B401F9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{8FA4A192-0728-499E-BFB6-24C9CB5EA4C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8FA4A192-0728-499E-BFB6-24C9CB5EA4C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8FA4A192-0728-499E-BFB6-24C9CB5EA4C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2033D33F-7DED-4A91-8C74-38E644B401F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2033D33F-7DED-4A91-8C74-38E644B401F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2033D33F-7DED-4A91-8C74-38E644B401F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2033D33F-7DED-4A91-8C74-38E644B401F9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
