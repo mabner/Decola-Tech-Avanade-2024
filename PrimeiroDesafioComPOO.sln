@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UtilizandoPropriedadesEMeto
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExplorandoSintaxeETiposDeDados", "ExplorandoSintaxeETiposDeDados\ExplorandoSintaxeETiposDeDados.csproj", "{2033D33F-7DED-4A91-8C74-38E644B401F9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DominandoOsOperadores", "DominandoOsOperadores\DominandoOsOperadores.csproj", "{3C6A2A14-851F-4560-ABD4-44F10950550B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{2033D33F-7DED-4A91-8C74-38E644B401F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2033D33F-7DED-4A91-8C74-38E644B401F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2033D33F-7DED-4A91-8C74-38E644B401F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C6A2A14-851F-4560-ABD4-44F10950550B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C6A2A14-851F-4560-ABD4-44F10950550B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C6A2A14-851F-4560-ABD4-44F10950550B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C6A2A14-851F-4560-ABD4-44F10950550B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
