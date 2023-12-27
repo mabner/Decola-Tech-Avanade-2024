@@ -1,4 +1,5 @@
 ﻿/*
+# Controle de Velocidade do Robô
 # Desafio
 Você foi contratado para criar um software que simule o controle de velocidade de um robô.
 Esse robô possui uma velocidade máxima e uma velocidade mínima. Sua tarefa é desenvolver
@@ -44,7 +45,6 @@ ADAAD
 
 
 using System;
-using System.Collections;
 
 class Robo
 {
@@ -88,19 +88,17 @@ class Program
 
         string acaoRobo = Console.ReadLine();
 
-        foreach (string step in acaoRobo)
+        for (int step = 0; step < acaoRobo.Length; step++)
         {
-            switch (step)
+            if (acaoRobo[step] == 'A')
             {
-                case "A":
-                    robo.Acelerar();
-                    break;
-                case "D":
-                    robo.Desacelerar();
-                    break;
-                default:
-                    continue;
+                robo.Acelerar();
+            }
+            else if (acaoRobo[step] == 'D')
+            {
+                robo.Desacelerar();
             }
         }
+        System.Console.WriteLine(robo.VelocidadeAtual);
     }
 }
