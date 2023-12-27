@@ -10,7 +10,7 @@
 
 ## Praticando Orientação a Objetos Com Desafios de Código em C#
 
-[*] [Primeiro Desafio com POO](/PrimeiroDesafioComPOO.sln)
+[*] [Primeiro Desafio com POO](/PrimeiroDesafioComPOO/Program.cs)
 [*] [Utilizando Propriedades e Métodos](/UtilizandoPropriedadesEMetodos/Program.cs)
 [] [Criando um Objeto com Atributos](/CriandoUmObjetoComAtributos/Program.cs)
 [] [Utilizando Construtores](/UtilizandoContrutores/Program.cs)
