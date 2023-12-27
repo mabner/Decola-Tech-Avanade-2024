@@ -44,6 +44,7 @@ ADAAD
 
 
 using System;
+using System.Collections;
 
 class Robo
 {
@@ -85,6 +86,21 @@ class Program
 
         Robo robo = new Robo(vmin, vmax);
 
-        
+        string acaoRobo = Console.ReadLine();
+
+        foreach (string step in acaoRobo)
+        {
+            switch (step)
+            {
+                case "A":
+                    robo.Acelerar();
+                    break;
+                case "D":
+                    robo.Desacelerar();
+                    break;
+                default:
+                    continue;
+            }
+        }
     }
 }
