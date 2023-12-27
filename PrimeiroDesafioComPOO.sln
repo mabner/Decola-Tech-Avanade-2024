@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeiroDesafioComPOO", "PrimeiroDesafioComPOO\PrimeiroDesafioComPOO.csproj", "{011CB390-FF7B-4E40-996A-8BC66E16B37F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UtilizandoPropriedadesEMetodos", "UtilizandoPropriedadesEMetodos\UtilizandoPropriedadesEMetodos.csproj", "{8FA4A192-0728-499E-BFB6-24C9CB5EA4C1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{011CB390-FF7B-4E40-996A-8BC66E16B37F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{011CB390-FF7B-4E40-996A-8BC66E16B37F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{011CB390-FF7B-4E40-996A-8BC66E16B37F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FA4A192-0728-499E-BFB6-24C9CB5EA4C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FA4A192-0728-499E-BFB6-24C9CB5EA4C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FA4A192-0728-499E-BFB6-24C9CB5EA4C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FA4A192-0728-499E-BFB6-24C9CB5EA4C1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
