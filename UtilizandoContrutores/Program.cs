@@ -51,6 +51,7 @@ class Personagem
 
 	public void ExibirStatus()
 	{
+		System.Console.WriteLine("Status:");
 		Console.WriteLine("Nome:" + Nome);
 		Console.WriteLine("Raça:" + Raca);
 		Console.WriteLine("Classe:" + Classe);
@@ -61,5 +62,14 @@ class Personagem
 
 class Program
 {
-	static void Main() { }
+	static void Main()
+	{
+		string nome = Console.ReadLine();
+		string raca = Console.ReadLine();
+		string classe = Console.ReadLine();
+
+		Personagem p1 = new Personagem(nome, raca, classe);
+
+		p1.ExibirStatus();
+	}
 }
