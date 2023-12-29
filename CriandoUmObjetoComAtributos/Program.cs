@@ -50,14 +50,26 @@ class Jogador
 	{
 	}
 
+	public void NovoJogador()
+	{
+		Nome = Console.ReadLine();
+		Nacionalidade = Console.ReadLine();
+		Idade = Int32.Parse(Console.ReadLine());
+		Posicao = Console.ReadLine();
+		ImprimeNovoJogador(Nome, Nacionalidade, Idade, Posicao);
+	}
 
-
+	public void ImprimeNovoJogador(string nome, string nacionalidade, int idade, string posicao)
+	{
+		System.Console.WriteLine($"Jogador criado!\n{nome}\n{nacionalidade}\n{idade}\nPosição: {posicao}");
+	}
 }
 
 class Program
 {
 	static void Main()
 	{
-
+		Jogador novoJogador = new Jogador();
+		novoJogador.NovoJogador();
 	}
 }
