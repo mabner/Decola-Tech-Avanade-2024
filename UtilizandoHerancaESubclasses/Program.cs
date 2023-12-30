@@ -67,7 +67,7 @@ class Subclasse : Personagem
 		DanoBase = danoBase;
 	}
 
-	public void CalcularDano()
+	public void CalcularDano(int Mana)
 	{
 		Console.WriteLine(Nome + " atacou e causou " + DanoBase * Mana + " de dano!");
 	}
@@ -77,6 +77,11 @@ class Program
 {
 	static void Main()
 	{
+		string nome = Console.ReadLine();
+		int mana = Int32.Parse(Console.ReadLine());
+		int DanoBase = Int32.Parse(Console.ReadLine());
 
+		Subclasse p1 = new Subclasse(nome, mana, DanoBase);
+		p1.CalcularDano(p1.Mana);
 	}
 }
