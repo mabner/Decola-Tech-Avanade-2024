@@ -14,4 +14,4 @@
 - [x] [Utilizando Propriedades e Métodos](/UtilizandoPropriedadesEMetodos/Program.cs)
 - [x] [Criando um Objeto com Atributos](/CriandoUmObjetoComAtributos/Program.cs)
 - [x] [Utilizando Construtores](/UtilizandoContrutores/Program.cs)
-- [ ] [Utilizando Herança e Subclasses](/UtilizandoHerancaESubclasses/Program.cs)
+- [x] [Utilizando Herança e Subclasses](/UtilizandoHerancaESubclasses/Program.cs)
